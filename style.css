@@ -1,0 +1,10 @@
+form{
+border:1px solid black;
+width:400px;
+height:100px;
+}
+.agregador{
+position:relative;
+top:42%;
+margin-left:10px;
+}
